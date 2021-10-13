@@ -80,3 +80,9 @@ The Git Whiteboard App is exclusively implemented with Kotlin/JS, i.e. the appli
 * [The Bulma CSS framework](https://bulma.io/)
 * [Font Awesome](https://fontawesome.com/)
 * [Asciidoctor for the user manual](https://asciidoctor.org/)
+
+# Contributors :
+1. Ekta Arora
+2. Shrejal Singh
+3. Aaquib ali
+4. Ruthvik
